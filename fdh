@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Constitución de un País Ideal</title>
+  <style>
+    body {
+      background-color: #f9f9f9;
+      color: #333;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1, h2, h3 {
+      color: #444;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+    h2 {
+      font-size: 2rem;
+      margin-top: 2rem;
+    }
+    h3 {
+      font-size: 1.5rem;
+      margin-top: 1.5rem;
+    }
+    p {
+      font-size: 1rem;
+      margin-bottom: 1rem;
+    }
+    .section {
+      max-width: 1000px;
+      margin: auto;
+      background: white;
+      padding: 2rem;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+  </style>
+</head>
+<body>
+  <div class="section">
+    <h1>Constitución de un País Ideal</h1>
+    <p>Este documento establece los principios, estructuras, derechos y deberes fundamentales para el desarrollo de un país ideal. Abarca todos los aspectos necesarios para una nación funcional, equitativa y próspera.</p>
+
+    <h2>1. Fundamentos del Estado</h2>
+    <p>El país se define como una república democrática, participativa y soberana. Su objetivo principal es garantizar el bienestar social, la justicia, la paz, el respeto por los derechos humanos y el desarrollo sostenible.</p>
+
+    <h2>2. Territorio</h2>
+    <p>El territorio está conformado por suelos continentales, insulares y marítimos, con una división político-administrativa basada en regiones, provincias, municipios y distritos autónomos.</p>
+
+    <h2>3. Ciudadanía y Derechos</h2>
+    <p>Todos los ciudadanos tienen derechos a la educación, salud, vivienda, trabajo, participación política, igualdad ante la ley y protección frente a abusos. Los deberes incluyen el respeto a los demás, el pago de impuestos y la defensa del país.</p>
+
+    <h2>4. Sistema Político</h2>
+    <p>Se establecerá un sistema presidencialista con división de poderes: ejecutivo, legislativo y judicial. Habrá elecciones libres cada 5 años y participación directa a través de referendos.</p>
+
+    <h2>5. Economía</h2>
+    <p>La economía será mixta: con libre mercado regulado y empresas estatales estratégicas. Se promueve el emprendimiento, la innovación, la justicia tributaria y la sostenibilidad.</p>
+
+    <h2>6. Educación</h2>
+    <p>La educación será gratuita, obligatoria y de calidad desde el nivel inicial hasta el universitario. Se fomentará la investigación, el pensamiento crítico, los valores cívicos y la formación técnica.</p>
+
+    <h2>7. Salud</h2>
+    <p>El sistema de salud será universal, público y gratuito. Se garantizará atención médica oportuna, infraestructura adecuada, personal capacitado y campañas de prevención.</p>
+
+    <h2>8. Seguridad y Justicia</h2>
+    <p>Las fuerzas de seguridad serán profesionales, transparentes y respetuosas de los derechos humanos. El sistema judicial será independiente, rápido y accesible para todos.</p>
+
+    <h2>9. Medio Ambiente</h2>
+    <p>El Estado protegerá la biodiversidad, los recursos naturales y fomentará el desarrollo sostenible. Se implementarán políticas de energía limpia, reciclaje y protección de ecosistemas.</p>
+
+    <h2>10. Cultura e Identidad</h2>
+    <p>Se promoverán las artes, el deporte, la herencia cultural, los idiomas originarios y la diversidad como riqueza nacional.</p>
+
+    <h2>11. Infraestructura y Tecnología</h2>
+    <p>El país contará con redes de transporte modernas, telecomunicaciones de calidad, acceso digital universal y desarrollo científico-tecnológico prioritario.</p>
+
+    <h2>12. Política Exterior</h2>
+    <p>El país mantendrá relaciones internacionales basadas en el respeto, la cooperación y la defensa de los derechos humanos, la paz y el desarrollo global.</p>
+
+    <h2>13. Defensa y Seguridad Nacional</h2>
+    <p>Las fuerzas armadas estarán bajo control civil, dedicadas a la defensa del país y a la ayuda en desastres naturales, con estricto respeto al orden constitucional.</p>
+
+    <h2>14. Participación Ciudadana</h2>
+    <p>La ciudadanía podrá participar en decisiones importantes mediante consultas, iniciativas legislativas, presupuestos participativos y asambleas comunitarias.</p>
+
+    <h2>15. Innovación y Futuro</h2>
+    <p>Se fomentará la inteligencia artificial, robótica, biotecnología y todas las ciencias aplicadas que potencien la calidad de vida, el desarrollo económico y la justicia social.</p>
+
+    <h2>16. Reforma Constitucional</h2>
+    <p>La constitución podrá reformarse mediante referendo o asamblea constituyente con la participación activa de la ciudadanía, garantizando su voluntad soberana.</p>
+  </div>
+</body>
+</html>
