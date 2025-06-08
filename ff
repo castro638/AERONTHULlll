@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Aeronthul: Nación Fénix</title>
+  <style>
+    body {
+      background-color: #f0f0f0;
+      color: #2e2e2e;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 20px;
+      line-height: 1.8;
+    }
+    h1, h2, h3 {
+      color: #1a1a1a;
+    }
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 1rem;
+    }
+    h2 {
+      font-size: 2.2rem;
+      margin-top: 2rem;
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 0.5rem;
+    }
+    h3 {
+      font-size: 1.6rem;
+      margin-top: 1.5rem;
+    }
+    p {
+      font-size: 1.1rem;
+      margin-bottom: 1rem;
+      text-align: justify;
+    }
+    .section {
+      max-width: 1100px;
+      margin: auto;
+      background: #fff;
+      padding: 3rem;
+      border-radius: 12px;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    }
+    .subsection {
+      margin-left: 20px;
+    }
+    nav {
+      background-color: #fff;
+      border-bottom: 2px solid #ccc;
+      padding: 1rem 2rem;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    }
+    nav ul {
+      list-style: none;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      margin: 0;
+      padding: 0;
+    }
+    nav ul li {
+      font-weight: bold;
+    }
+    nav ul li a {
+      text-decoration: none;
+      color: #2e2e2e;
+      transition: color 0.3s ease;
+    }
+    nav ul li a:hover,
+    nav ul li a:focus {
+      text-decoration: underline;
+      color: #0078d7;
+      outline: none;
+    }
+    @media (max-width: 600px) {
+      nav ul {
+        flex-direction: column;
+        gap: 0.5rem;
+      }
+      .section {
+        padding: 1.5rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="#identidad">Identidad</a></li>
+      <li><a href="#elementos">Estado</a></li>
+      <li><a href="#ciudadania">Ciudadanía</a></li>
+      <li><a href="#derechos">Derechos</a></li>
+      <li><a href="#deberes">Deberes</a></li>
+      <li><a href="#poderes">Poderes</a></li>
+      <li><a href="#instituciones">Instituciones</a></li>
+      <li><a href="#economia">Economía</a></li>
+      <li><a href="#salud">Salud</a></li>
+      <li><a href="#educacion">Educación</a></li>
+      <li><a href="#seguridad">Seguridad</a></li>
+      <li><a href="#ambiente">Ambiente</a></li>
+      <li><a href="#cultura">Cultura</a></li>
+      <li><a href="#tecnologia">Tecnología</a></li>
+      <li><a href="#relaciones">Relaciones</a></li>
+      <li><a href="#defensa">Defensa</a></li>
+      <li><a href="#participacion">Participación</a></li>
+      <li><a href="#juventud">Juventud</a></li>
+      <li><a href="#reforma">Reforma</a></li>
+    </ul>
+  </nav>
+
+  <main class="section">
+    <h1>Aeronthul: Constitución de la Nación Fénix</h1>
+    <p>Este documento establece los principios fundamentales, estructuras institucionales, derechos, deberes y mecanismos que rigen la vida política, social, económica y cultural de Aeronthul, una nación construida sobre los valores de la justicia, la equidad, la innovación y la resiliencia.</p>
+
+    <h2 id="identidad">1. Identidad Nacional</h2>
+    <p>Aeronthul es una nación soberana, democrática, intercultural, basada en la unidad de su pueblo, en la libertad, el conocimiento, la sostenibilidad y el respeto por la diversidad.</p>
+
+    <h2 id="elementos">2. Elementos Esenciales del Estado</h2>
+    <section class="subsection">
+      <h3>2.1 Territorio</h3>
+      <p>El territorio de Aeronthul comprende suelos continentales, islas, aguas interiores, espacio aéreo y plataforma submarina reconocida por el derecho internacional.</p>
+
+      <h3>2.2 Símbolos Patrios</h3>
+      <p>Incluyen una bandera tricolor con el ave fénix en su centro, el escudo nacional con los cinco pilares de la nación, y un himno basado en valores de renacimiento, libertad y unidad.</p>
+
+      <h3>2.3 Capital y División Política</h3>
+      <p>La capital será Neolux, centro administrativo y cultural. El país se divide en regiones, cantones y comunas con autonomía administrativa.</p>
+    </section>
+
+    <h2 id="ciudadania">3. Ciudadanía</h2>
+    <p>La ciudadanía se adquiere por nacimiento o naturalización. Todos los ciudadanos tienen derechos y deberes consagrados, con participación plena en la vida del país sin discriminación.</p>
+
+    <h2 id="derechos">4. Derechos Fundamentales</h2>
+    <p>Se garantizan el derecho a la vida, libertad, salud, educación, identidad, vivienda, información, trabajo digno, justicia, participación política, igualdad ante la ley, acceso a la tecnología, y protección del ambiente.</p>
+
+    <h2 id="deberes">5. Deberes Ciudadanos</h2>
+    <p>Incluirán respetar la Constitución, pagar impuestos, cuidar el medio ambiente, participar en la vida cívica, promover la paz, y preservar la memoria histórica.</p>
+
+    <h2 id="poderes">6. Poderes del Estado</h2>
+    <section class="subsection">
+      <h3>6.1 Ejecutivo</h3>
+      <p>Representado por el Presidente de la República, elegido por sufragio directo cada 6 años. Dirige el gobierno y ejecuta políticas públicas.</p>
+
+      <h3>6.2 Legislativo</h3>
+      <p>Un Congreso Nacional unicameral compuesto por representantes regionales elegidos cada 4 años. Sus funciones son legislar, fiscalizar y representar a la ciudadanía.</p>
+
+      <h3>6.3 Judicial</h3>
+      <p>Independiente, compuesto por tribunales ordinarios y especializados, garantiza el acceso a la justicia, el debido proceso y el respeto de la ley.</p>
+    </section>
+
+    <h2 id="instituciones">7. Instituciones Complementarias</h2>
+    <p>Incluyen el Consejo Electoral, la Defensoría del Pueblo, la Corte Constitucional, y la Fiscalía Nacional, todos con funciones específicas e independientes.</p>
+
+    <h2 id="economia">8. Política Económica</h2>
+    <p>Economía solidaria, con propiedad privada, empresas estatales estratégicas, protección laboral, políticas de innovación, ciencia y tecnología, desarrollo rural, y banca pública nacional.</p>
+
+    <h2 id="salud">9. Salud Pública</h2>
+    <p>Sistema único, público, gratuito y preventivo, con centros de salud en todo el país, atención integral, investigación biomédica nacional, y medicina intercultural.</p>
+
+    <h2 id="educacion">10. Educación y Conocimiento</h2>
+    <p>Educación universal, gratuita, obligatoria y laica desde la infancia hasta la universidad. Se promoverá la investigación, arte, ciencias, lenguas originarias y pensamiento crítico.</p>
+
+    <h2 id="seguridad">11. Seguridad Integral</h2>
+    <p>Policía civil, armada no beligerante, inteligencia democrática. Se prioriza la prevención del delito, el desarme social, y la rehabilitación del infractor.</p>
+
+    <h2 id="ambiente">12. Medio Ambiente y Naturaleza</h2>
+    <p>Reconocimiento de la naturaleza como sujeto de derechos. Se fomentará la conservación, restauración, energías limpias, agricultura orgánica, y justicia ambiental.</p>
+
+    <h2 id="cultura">13. Cultura, Comunicación y Diversidad</h2>
+    <p>El Estado protege las culturas, lenguas, tradiciones y medios de comunicación libres. Habrá políticas culturales públicas y acceso universal a las artes.</p>
+
+    <h2 id="tecnologia">14. Tecnología e Innovación</h2>
+    <p>Fomento de la inteligencia artificial, biotecnología, robótica, energía renovable, infraestructura 5G y desarrollo aeroespacial con base ética y humanista.</p>
+
+    <h2 id="relaciones">15. Relaciones Internacionales</h2>
+    <p>Diplomacia activa, solidaria y pacífica. El país participará en foros globales, respetará tratados internacionales y defenderá los derechos humanos.</p>
+
+    <h2 id="defensa">16. Defensa Nacional</h2>
+    <p>Las fuerzas armadas serán profesionales, subordinadas al poder civil y orientadas a la defensa de la
