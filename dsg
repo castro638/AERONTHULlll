@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Aëronthul – Nación del Fénix Áureo</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600&family=Raleway&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --azul-profundo: #001f3f;
+      --dorado: #ffd700;
+      --blanco: #f8f8f8;
+      --gris: #ddd;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Raleway', sans-serif;
+      background: var(--azul-profundo);
+      color: var(--blanco);
+      line-height: 1.6;
+    }
+
+    header {
+      background-color: var(--dorado);
+      color: var(--azul-profundo);
+      text-align: center;
+      padding: 2rem;
+      border-bottom: 4px solid var(--blanco);
+    }
+
+    header h1 {
+      font-family: 'Cinzel', serif;
+      font-size: 2.8rem;
+      margin: 0;
+    }
+
+    section {
+      padding: 2rem;
+      border-bottom: 2px solid var(--dorado);
+    }
+
+    h2 {
+      color: var(--dorado);
+      font-family: 'Cinzel', serif;
+      border-left: 6px solid var(--dorado);
+      padding-left: 10px;
+    }
+
+    footer {
+      background-color: var(--dorado);
+      color: var(--azul-profundo);
+      text-align: center;
+      padding: 1rem;
+      font-weight: bold;
+    }
+
+    @media (max-width: 768px) {
+      section {
+        padding: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Nación del Fénix Áureo – Aëronthul</h1>
+    <p>“Velkar, më thälra vërak — Valor que honra la verdad.”</p>
+  </header>
+
+  <section>
+    <h2>Visión Extensa de Aëronthul</h2>
+    <p>
+      Aëronthul es una nación ficticia con una rica historia, cultura vibrante y un sistema político único. Se erige como un símbolo de resiliencia, innovación y valores inquebrantables. Su fundación se remonta a los tiempos de los Grandes Valles del Norte, donde las tribus originarias se unieron bajo el estandarte del Fénix Dorado para enfrentar la invasión de fuerzas externas. La figura del Fénix no solo representa el renacimiento después de la destrucción, sino también la sabiduría ancestral que guía cada decisión nacional.
+    </p>
+    <p>
+      Con una población de más de 120 millones de habitantes, Aëronthul se organiza territorialmente en 12 grandes provincias, cada una gobernada por un consejo regional que responde al gobierno central. Esta división asegura una administración descentralizada, pero armónica, donde cada provincia conserva su identidad cultural mientras coopera en una visión nacional. La capital, Velkarin, es una metrópolis futurista que combina arquitectura neoclásica y diseño de ciudades inteligentes. Sus calles están pobladas por sistemas autónomos, trenes hiperveloces y jardines verticales que purifican el aire.
+    </p>
+    <p>
+      El idioma oficial es el Aërican, un lenguaje construido con raíces fonéticas elfo-latinas, que promueve una comunicación precisa, elegante y filosófica. La educación en Aëronthul comienza desde temprana edad con formación en lógica, ética, filosofía, física y literatura clásica. El aprendizaje de idiomas es obligatorio: todos los ciudadanos dominan al menos cuatro lenguas. El lema nacional no es simplemente un símbolo patriótico; se inculca en cada institución y hogar, reforzando la cultura de la integridad y la búsqueda de la verdad.
+    </p>
+    <p>
+      La economía aëronthulense es una de las más avanzadas del mundo. Basada en seis pilares fundamentales: tecnología e innovación, energía limpia, educación, infraestructura, finanzas descentralizadas y turismo de élite. El país ha eliminado los combustibles fósiles completamente, operando al 100% con energía solar, eólica y de hidrógeno verde. Las universidades están entre las más prestigiosas, y la investigación científica es un pilar de orgullo nacional. Cada año, Aëronthul invierte más del 15% de su PIB en innovación tecnológica, lo que le ha permitido liderar avances en inteligencia artificial cuántica, medicina regenerativa y exploración espacial.
+    </p>
+    <p>
+      En el ámbito diplomático, Aëronthul mantiene una postura neutral activa: no interviene en conflictos, pero lidera misiones de paz, cooperación y reconstrucción. Es sede permanente del Consejo de Sabios del Hemisferio, donde naciones de todo el mundo se reúnen para resolver disputas mediante el diálogo. Su ejército, aunque pequeño en número, está compuesto por unidades élite de defensa territorial y comandos de paz, entrenados no solo en combate, sino también en ética y derecho internacional.
+    </p>
+    <p>
+      Culturalmente, Aëronthul es un crisol de expresiones. La música tradicional, llamada "aërikantë", mezcla cantos polifónicos con instrumentos de cuerda y viento que evocan las leyendas fundacionales. El Festival del Renacer, celebrado cada equinoccio, reúne a millones de personas en ceremonias que simbolizan el ciclo de la vida, el conocimiento y la unión entre generaciones. El teatro y la poesía ocupan lugares de alto prestigio, con dramaturgos que aún hoy escriben en métrica clásica y actores formados en retórica y filosofía.
+    </p>
+    <p>
+      En el plano ambiental, Aëronthul es pionero en restauración ecológica. Sus reservas naturales representan el 35% del territorio nacional y están custodiadas por los Guardianes de Ärvën, una orden ancestral que combina conocimientos de ecología, botánica y espiritualidad. El país no solo ha reforestado zonas devastadas, sino que también ha recuperado especies extintas a través de ingeniería genética ética. La ciudadanía tiene un fuerte sentido de responsabilidad ecológica; el reciclaje, la agricultura urbana y el consumo consciente son parte de la vida diaria.
+    </p>
+    <p>
+      En cuanto a su sistema de gobierno, Aëronthul combina democracia directa con una meritocracia ilustrada. Los líderes son elegidos por voto popular, pero para poder ser candidatos deben demostrar altos estándares de conocimiento, integridad y experiencia. Las decisiones clave del país se someten a referéndum, y el Congreso se compone de sabios elegidos entre los mejores científicos, artistas y filósofos. Esto garantiza que las leyes respondan a un bien superior, no a intereses partidistas.
+    </p>
+    <p>
+      La moneda oficial, el Velkar (ⱽ), está respaldada por recursos naturales como el litio, así como por el conocimiento generado en sus centros de innovación. Gracias a su estabilidad y respaldo, se ha convertido en una de las monedas digitales más seguras y utilizadas del mundo a través de su red blockchain, AëriBlock. Esta estructura ha permitido eliminar la inflación, reducir la evasión fiscal a cero y proporcionar ingresos universales para toda la población.
+    </p>
+    <p>
+      En resumen, Aëronthul es mucho más que una nación imaginaria. Representa un ideal colectivo de lo que una sociedad puede alcanzar cuando se rige por la verdad, el conocimiento, el respeto mutuo y la sostenibilidad. Su estructura política, económica, social y cultural es una invitación constante a elevar nuestros propios estándares. Es un ejemplo de cómo lo ficticio puede ser una guía hacia lo posible, una fuente de inspiración para diseñar un mundo mejor en el presente real. Aëronthul no es solo un país: es una visión. Una idea viva.
+    </p>
+  </section>
+
+  <footer>
+    Nación del Fénix Áureo – Aëronthul 🇦🇺 | Poder, Sabiduría y Valor Eterno
+  </footer>
+</body>
+</html>
